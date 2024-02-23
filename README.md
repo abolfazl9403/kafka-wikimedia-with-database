@@ -1,6 +1,8 @@
 # Kafka Producer-Consumer Application
 
 This repository contains a Kafka producer-consumer application. The producer component fetches real-time stream data from the Wikimedia API and sends it to a Kafka topic named "wikimedia-project". The consumer component listens to messages from the same Kafka topic and persists them into a MySQL database.
+
+
 ![Project_looking](application.png)
 
 # Overview
