@@ -102,3 +102,6 @@ To run the application:
 4. Run the ProducerApplication
 5. Run the ConsumerApplication
 
+## Database Output
+![Kafka Logo](image.png)
+
