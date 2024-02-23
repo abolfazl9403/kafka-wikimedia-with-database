@@ -71,7 +71,7 @@ spring.kafka.consumer.value-deserializer=org.apache.kafka.common.serialization.S
 ### Server Configuration
 
 ```
-server.port=8081
+server.port=8080
 ```
 
 ### DataSource Configuration for MySQL
