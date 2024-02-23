@@ -1,0 +1,4 @@
+rootProject.name = 'kafka'
+include 'kafka-producer-me'
+include 'kafka-consumer-database'
+
